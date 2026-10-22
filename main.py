@@ -2,10 +2,10 @@
 """
 Proyecto Reemplazo de Fondo
 
-Uso:
+Usage:
     main.py --bg=<imagen>
 
-Opciones:
+Opctions:
     --bg=<imagen>    Ruta de la imagen de fondo.
 """
 
